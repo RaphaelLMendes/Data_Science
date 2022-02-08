@@ -25,7 +25,7 @@ https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-1.2.1&ixid
     
     There is also a Power BI Dashboard:
 
-    <iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTA4OGY2ZDUtNDc0MC00MGIzLThlZmItMWZkNWRiYmVjN2VjIiwidCI6IjM2ZGE0NWYxLWRkMmMtNGQxZi1hZjEzLTVhYmU0NmI5OTkyMSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+    [<img src="https://user-images.githubusercontent.com/47408850/153014167-368f835d-819f-4d56-99e6-b56f1b78be3d.png" alt="drawing" width="80%"/>](https://app.powerbi.com/view?r=eyJrIjoiMTA4OGY2ZDUtNDc0MC00MGIzLThlZmItMWZkNWRiYmVjN2VjIiwidCI6IjM2ZGE0NWYxLWRkMmMtNGQxZi1hZjEzLTVhYmU0NmI5OTkyMSIsImMiOjh9)
 
 <br/>
 
