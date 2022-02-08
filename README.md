@@ -14,12 +14,12 @@ https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-1.2.1&ixid
 
 <br/>
 
-- [Machine Learning - Linear Regression applied to Beer Consumption](Jupiter_Notebooks\MachineLearning_DadosCerveja.ipynb)
+- [Machine Learning - Linear Regression applied to Beer Consumption](Jupiter_Notebooks/MachineLearning_DadosCerveja.ipynb)
   
-        In this project I used a simple linear regression algorythm on beer consumption data in order to find insights that could lead to a competitive advantage in the beer production market.
+    In this project I used a simple linear regression algorythm on beer consumption data in order to find insights that could lead to a competitive advantage in the beer production market.
 
 <br/>
 
-- [Descriptive Análises of Financial/Investment dataset](Jupiter_Notebooks\Atividade_Dados_Investimento.ipynb)
+- [Descriptive Análises of Financial/Investment dataset](Jupiter_Notebooks/Atividade_Dados_Investimento.ipynb)
   
-        In this project I received some data on interest rate, dollar and other economic indicators. However, the data provider is apparently unreliable, due to a previous history of data problems and information leaks. Based on these points, I had to find inconsistencies in the data.
+    In this project I received some data on interest rate, dollar and other economic indicators. However, the data provider is apparently unreliable, due to a previous history of data problems and information leaks. Based on these points, I had to find inconsistencies in the data.
